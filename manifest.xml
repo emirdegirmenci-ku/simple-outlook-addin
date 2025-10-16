@@ -19,9 +19,10 @@
   <FormSettings>
     <Form xsi:type="ItemCompose">
       <DesktopSettings>
-        <SourceLocation DefaultValue="https://kullaniciadi.github.io/simple-outlook-addin/taskpane.html"/>
+        <SourceLocation DefaultValue="https://emirdegirmenci-ku.github.io/simple-outlook-addin/taskpane.html"/>
       </DesktopSettings>
     </Form>
   </FormSettings>
   <Permissions>ReadWriteMailbox</Permissions>
+
 </OfficeApp>
